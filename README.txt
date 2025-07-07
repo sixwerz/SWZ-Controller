@@ -1,4 +1,4 @@
-<h1>🕹️ ** Telegram remote controller - Manage your PC with Telegram ** 🕹️</h1>
+<h1 align="center">🕹️ ** Telegram remote controller - Manage your PC with Telegram ** 🕹️</h1>
 
 ## Screenshots:
 
