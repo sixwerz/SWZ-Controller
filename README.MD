@@ -11,9 +11,9 @@ pip install pyautogui
 pip install opencv-python
 ```
 
-pyTelegramBotApi - library for creating Telegram bots. \n
-pyautogui - library for mouse and keyboard control \n
-opencv-python - library for use a web camera \n
+pyTelegramBotApi - library for creating Telegram bots. <br>
+pyautogui - library for mouse and keyboard control <br>
+opencv-python - library for use a web camera <br>
 
 ## How to use
 
