@@ -6,7 +6,7 @@ import time
 import os
 import cv2
 
-bot = telebot.TeleBot('5261103493:AAEAYVSloDik9_G4wfA_FM8YhjV16Ni0JIc')
+bot = telebot.TeleBot('bot_token')
 
 print('Launched')
 
