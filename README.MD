@@ -1,6 +1,7 @@
-<h1 align="center">🕹️ ** Telegram remote controller - Manage your PC with Telegram ** 🕹️</h1>
+<h2 align="center">🕹️ ** Telegram remote controller - Manage your PC with Telegram ** 🕹️</h1>
 
 ## Screenshots:
+![screenshot 1](https://github.com/sixwerz/SWZ-Controller/blob/main/screenshots/screenshot1.png)
 
 ## Required Libraries
 
@@ -10,9 +11,9 @@ pip install pyautogui
 pip install opencv-python
 ```
 
-pyTelegramBotApi - library for creating Telegram bots.
-pyautogui - library for mouse and keyboard control
-opencv-python - library for use a web camera
+pyTelegramBotApi - library for creating Telegram bots. \n
+pyautogui - library for mouse and keyboard control \n
+opencv-python - library for use a web camera \n
 
 ## How to use
 
@@ -26,4 +27,4 @@ bot = telebot.TeleBot('bot_token')
 then you can run controller.py
 and go to the telegram bot
 
-When you start the bot using the <s>/start</s> command, you will see a menu with a list for managing the computer
+When you start the bot using the <strong>/start</strong> command, you will see a menu with a list for managing the computer
